@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\bin\Debug\net10.0\Reverse_string.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\bin\Debug\net10.0\Reverse_string.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\bin\Debug\net10.0\Reverse_string.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\bin\Debug\net10.0\Reverse_string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\bin\Debug\net10.0\Reverse_string.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\refint\Reverse_string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\Reverse_string.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Reverse_string\obj\Debug\net10.0\ref\Reverse_string.dll

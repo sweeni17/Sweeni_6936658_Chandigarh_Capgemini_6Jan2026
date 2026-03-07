@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\bin\Debug\net10.0\Armstrong number.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\bin\Debug\net10.0\Armstrong number.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\bin\Debug\net10.0\Armstrong number.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\bin\Debug\net10.0\Armstrong number.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\bin\Debug\net10.0\Armstrong number.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\refint\Armstrong number.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\Armstrong number.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Armstrong number\obj\Debug\net10.0\ref\Armstrong number.dll

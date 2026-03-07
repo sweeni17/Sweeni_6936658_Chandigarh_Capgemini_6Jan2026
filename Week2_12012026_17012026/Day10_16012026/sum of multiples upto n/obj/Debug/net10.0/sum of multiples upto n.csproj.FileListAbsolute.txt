@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\bin\Debug\net10.0\sum of multiples upto n.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\bin\Debug\net10.0\sum of multiples upto n.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\bin\Debug\net10.0\sum of multiples upto n.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\bin\Debug\net10.0\sum of multiples upto n.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\bin\Debug\net10.0\sum of multiples upto n.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\refint\sum of multiples upto n.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\sum of multiples upto n.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\sum of multiples upto n\obj\Debug\net10.0\ref\sum of multiples upto n.dll

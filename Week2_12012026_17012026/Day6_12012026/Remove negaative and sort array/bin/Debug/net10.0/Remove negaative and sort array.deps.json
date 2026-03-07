@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Remove negaative and sort array/1.0.0": {
+        "runtime": {
+          "Remove negaative and sort array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove negaative and sort array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

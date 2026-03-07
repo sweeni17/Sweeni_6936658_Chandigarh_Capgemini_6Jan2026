@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>To-Do List</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg,#89f7fe,#66a6ff);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:400px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    text-align:center;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+.input-area{
+    display:flex;
+    gap:10px;
+}
+
+input{
+    flex:1;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ddd;
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:600;
+}
+
+.add-btn{
+    background:#4CAF50;
+    color:white;
+}
+
+.reset-btn{
+    margin-top:15px;
+    background:#ff5252;
+    color:white;
+}
+
+li{
+    list-style:none;
+    padding:12px;
+    margin-top:10px;
+    border-radius:8px;
+    background:#f4f6f8;
+    transition:0.3s;
+    cursor:pointer;
+}
+
+li:hover{
+    background:#e3f2fd;
+}
+
+.done{
+    text-decoration: line-through;
+    color:gray;
+    background:#d4edda;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>✨ My To-Do List</h2>
+
+<div class="input-area">
+<input type="text" id="taskInput" placeholder="Enter a task...">
+<button class="add-btn" onclick="addTask()">Add</button>
+</div>
+
+<ul id="taskList"></ul>
+
+<button class="reset-btn" onclick="clearTasks()">Clear All</button>
+
+</div>
+
+<script>
+
+function addTask(){
+
+let taskText=document.getElementById("taskInput").value;
+
+if(taskText==="") return;
+
+let li=document.createElement("li");
+
+li.innerText=taskText;
+
+li.onclick=function(){
+li.classList.toggle("done");
+}
+
+document.getElementById("taskList").appendChild(li);
+
+document.getElementById("taskInput").value="";
+
+}
+
+function clearTasks(){
+document.getElementById("taskList").innerHTML="";
+}
+
+</script>
+
+</body>
+</html>

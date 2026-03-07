@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\bin\Debug\net10.0\Ecommerce Product Catalogue.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\bin\Debug\net10.0\Ecommerce Product Catalogue.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\bin\Debug\net10.0\Ecommerce Product Catalogue.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\bin\Debug\net10.0\Ecommerce Product Catalogue.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\bin\Debug\net10.0\Ecommerce Product Catalogue.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\refint\Ecommerce Product Catalogue.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\Ecommerce Product Catalogue.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Ecommerce Product Catalogue\obj\Debug\net10.0\ref\Ecommerce Product Catalogue.dll

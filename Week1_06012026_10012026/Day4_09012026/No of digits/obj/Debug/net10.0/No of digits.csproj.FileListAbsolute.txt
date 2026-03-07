@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\bin\Debug\net10.0\No of digits.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\bin\Debug\net10.0\No of digits.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\bin\Debug\net10.0\No of digits.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\bin\Debug\net10.0\No of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\bin\Debug\net10.0\No of digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\refint\No of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\No of digits.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\No of digits\obj\Debug\net10.0\ref\No of digits.dll

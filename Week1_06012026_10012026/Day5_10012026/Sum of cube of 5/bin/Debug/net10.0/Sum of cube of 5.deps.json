@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sum of cube of 5/1.0.0": {
+        "runtime": {
+          "Sum of cube of 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum of cube of 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

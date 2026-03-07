@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\bin\Debug\net10.0\Repeated Elements.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\bin\Debug\net10.0\Repeated Elements.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\bin\Debug\net10.0\Repeated Elements.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\bin\Debug\net10.0\Repeated Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\bin\Debug\net10.0\Repeated Elements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\refint\Repeated Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\Repeated Elements.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Repeated Elements\obj\Debug\net10.0\ref\Repeated Elements.dll

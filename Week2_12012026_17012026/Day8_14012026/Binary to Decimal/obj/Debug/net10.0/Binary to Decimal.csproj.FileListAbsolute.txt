@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\bin\Debug\net10.0\Binary to Decimal.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\bin\Debug\net10.0\Binary to Decimal.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\bin\Debug\net10.0\Binary to Decimal.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\bin\Debug\net10.0\Binary to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\bin\Debug\net10.0\Binary to Decimal.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\refint\Binary to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\Binary to Decimal.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Binary to Decimal\obj\Debug\net10.0\ref\Binary to Decimal.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\bin\Debug\net10.0\Leap year.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\bin\Debug\net10.0\Leap year.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\bin\Debug\net10.0\Leap year.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\bin\Debug\net10.0\Leap year.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\bin\Debug\net10.0\Leap year.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\refint\Leap year.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\Leap year.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day10_16012026\Leap year\obj\Debug\net10.0\ref\Leap year.dll

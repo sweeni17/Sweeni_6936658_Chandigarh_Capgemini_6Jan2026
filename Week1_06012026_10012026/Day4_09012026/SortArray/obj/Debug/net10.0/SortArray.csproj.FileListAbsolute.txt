@@ -1,0 +1,28 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\bin\Debug\net10.0\SortArray.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\bin\Debug\net10.0\SortArray.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\bin\Debug\net10.0\SortArray.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\bin\Debug\net10.0\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\bin\Debug\net10.0\SortArray.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\refint\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\SortArray.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\SortArray\obj\Debug\net10.0\ref\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\bin\Debug\net10.0\SortArray.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\bin\Debug\net10.0\SortArray.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\bin\Debug\net10.0\SortArray.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\bin\Debug\net10.0\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\bin\Debug\net10.0\SortArray.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\refint\SortArray.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\SortArray.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\SortArray\obj\Debug\net10.0\ref\SortArray.dll

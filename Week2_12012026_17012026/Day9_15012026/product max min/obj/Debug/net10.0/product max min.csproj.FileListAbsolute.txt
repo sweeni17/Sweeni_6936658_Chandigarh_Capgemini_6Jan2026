@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\bin\Debug\net10.0\product max min.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\bin\Debug\net10.0\product max min.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\bin\Debug\net10.0\product max min.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\bin\Debug\net10.0\product max min.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\bin\Debug\net10.0\product max min.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\refint\product max min.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\product max min.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\product max min\obj\Debug\net10.0\ref\product max min.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\bin\Debug\net10.0\Game Character System.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\bin\Debug\net10.0\Game Character System.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\bin\Debug\net10.0\Game Character System.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\bin\Debug\net10.0\Game Character System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\bin\Debug\net10.0\Game Character System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\refint\Game Character System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\Game Character System.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Game Character System\obj\Debug\net10.0\ref\Game Character System.dll

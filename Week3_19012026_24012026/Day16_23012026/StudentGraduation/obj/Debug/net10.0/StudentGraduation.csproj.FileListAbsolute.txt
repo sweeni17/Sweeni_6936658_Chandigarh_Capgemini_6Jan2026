@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\bin\Debug\net10.0\StudentGraduation.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\bin\Debug\net10.0\StudentGraduation.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\bin\Debug\net10.0\StudentGraduation.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\bin\Debug\net10.0\StudentGraduation.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\bin\Debug\net10.0\StudentGraduation.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\refint\StudentGraduation.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\StudentGraduation.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\StudentGraduation\obj\Debug\net10.0\ref\StudentGraduation.dll

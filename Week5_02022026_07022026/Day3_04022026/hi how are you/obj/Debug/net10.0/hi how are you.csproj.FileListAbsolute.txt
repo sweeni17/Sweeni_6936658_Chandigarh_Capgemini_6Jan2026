@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\bin\Debug\net10.0\hi how are you.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\bin\Debug\net10.0\hi how are you.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\bin\Debug\net10.0\hi how are you.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\bin\Debug\net10.0\hi how are you.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\bin\Debug\net10.0\hi how are you.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\refint\hi how are you.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\hi how are you.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\hi how are you\obj\Debug\net10.0\ref\hi how are you.dll

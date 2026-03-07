@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\bin\Debug\net10.0\Add Array.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\bin\Debug\net10.0\Add Array.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\bin\Debug\net10.0\Add Array.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\bin\Debug\net10.0\Add Array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\bin\Debug\net10.0\Add Array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\refint\Add Array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\Add Array.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Add Array\obj\Debug\net10.0\ref\Add Array.dll

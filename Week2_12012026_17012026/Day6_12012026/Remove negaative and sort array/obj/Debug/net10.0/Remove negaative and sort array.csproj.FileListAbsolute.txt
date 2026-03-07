@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\bin\Debug\net10.0\Remove negaative and sort array.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\bin\Debug\net10.0\Remove negaative and sort array.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\bin\Debug\net10.0\Remove negaative and sort array.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\bin\Debug\net10.0\Remove negaative and sort array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\bin\Debug\net10.0\Remove negaative and sort array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\refint\Remove negaative and sort array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\Remove negaative and sort array.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Remove negaative and sort array\obj\Debug\net10.0\ref\Remove negaative and sort array.dll

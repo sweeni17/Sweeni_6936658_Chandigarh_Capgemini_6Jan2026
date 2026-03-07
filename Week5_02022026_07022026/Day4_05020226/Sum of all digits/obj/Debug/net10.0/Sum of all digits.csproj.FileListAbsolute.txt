@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\bin\Debug\net10.0\Sum of all digits.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\bin\Debug\net10.0\Sum of all digits.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\bin\Debug\net10.0\Sum of all digits.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\bin\Debug\net10.0\Sum of all digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\bin\Debug\net10.0\Sum of all digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\refint\Sum of all digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\Sum of all digits.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day4_05020226\Sum of all digits\obj\Debug\net10.0\ref\Sum of all digits.dll

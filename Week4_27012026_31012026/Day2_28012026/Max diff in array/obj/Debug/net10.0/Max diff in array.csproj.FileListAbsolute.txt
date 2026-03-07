@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\bin\Debug\net10.0\Max diff in array.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\bin\Debug\net10.0\Max diff in array.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\bin\Debug\net10.0\Max diff in array.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\bin\Debug\net10.0\Max diff in array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\bin\Debug\net10.0\Max diff in array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\refint\Max diff in array.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\Max diff in array.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\Max diff in array\obj\Debug\net10.0\ref\Max diff in array.dll

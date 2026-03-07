@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week8_23022026_28022026\\Day4_26022026\\ADODOTNETCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week8_23022026_28022026\\day4_26022026\\adodotnetcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B923EE3B-5A18-AB6D-D63A-E8E8B0326DC3}|ADODOTNETCoreDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week8_23022026_28022026\\Day4_26022026\\ADODOTNETCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week8_23022026_28022026\\Day4_26022026\\ADODOTNETCoreDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:16:33.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

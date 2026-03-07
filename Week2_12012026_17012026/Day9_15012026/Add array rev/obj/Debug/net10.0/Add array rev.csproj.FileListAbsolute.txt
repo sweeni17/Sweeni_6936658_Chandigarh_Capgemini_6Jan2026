@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\bin\Debug\net10.0\Add array rev.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\bin\Debug\net10.0\Add array rev.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\bin\Debug\net10.0\Add array rev.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\bin\Debug\net10.0\Add array rev.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\bin\Debug\net10.0\Add array rev.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\refint\Add array rev.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\Add array rev.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Add array rev\obj\Debug\net10.0\ref\Add array rev.dll

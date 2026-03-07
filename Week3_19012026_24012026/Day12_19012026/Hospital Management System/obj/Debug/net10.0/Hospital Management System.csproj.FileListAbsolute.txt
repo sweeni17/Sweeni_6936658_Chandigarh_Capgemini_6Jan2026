@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\bin\Debug\net10.0\Hospital Management System.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\bin\Debug\net10.0\Hospital Management System.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\bin\Debug\net10.0\Hospital Management System.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\bin\Debug\net10.0\Hospital Management System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\bin\Debug\net10.0\Hospital Management System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\refint\Hospital Management System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\Hospital Management System.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day11_19012026\Hospital Management System\obj\Debug\net10.0\ref\Hospital Management System.dll

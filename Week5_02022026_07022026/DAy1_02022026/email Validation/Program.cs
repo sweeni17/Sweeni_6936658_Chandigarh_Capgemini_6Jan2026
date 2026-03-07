@@ -1,0 +1,21 @@
+﻿using System;
+using System.Text.RegularExpressions;
+
+public class Program
+{
+    public static void Main()
+    {
+        string email = Console.ReadLine();
+
+        string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
+
+        if (email.Length <= 100 && Regex.IsMatch(email, pattern))
+        {
+            Console.WriteLine("Valid");
+        }
+        else
+        {
+            Console.WriteLine("Invalid");
+        }
+    }
+}

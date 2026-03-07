@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\bin\Debug\net10.0\Next Consonant or vowel.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\bin\Debug\net10.0\Next Consonant or vowel.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\bin\Debug\net10.0\Next Consonant or vowel.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\bin\Debug\net10.0\Next Consonant or vowel.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\bin\Debug\net10.0\Next Consonant or vowel.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\refint\Next Consonant or vowel.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\Next Consonant or vowel.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Next Consonant or vowel\obj\Debug\net10.0\ref\Next Consonant or vowel.dll

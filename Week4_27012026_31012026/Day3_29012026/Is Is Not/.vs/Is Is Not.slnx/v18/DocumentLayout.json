@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week4_27012026_31012026\\Day3_29012026\\Is Is Not\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{856D95F1-DD9E-4133-8BD2-82D81FC68D75}|Is Is Not.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week4_27012026_31012026\\day3_29012026\\is is not\\userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856D95F1-DD9E-4133-8BD2-82D81FC68D75}|Is Is Not.csproj|solutionrelative:userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856D95F1-DD9E-4133-8BD2-82D81FC68D75}|Is Is Not.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week4_27012026_31012026\\day3_29012026\\is is not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856D95F1-DD9E-4133-8BD2-82D81FC68D75}|Is Is Not.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProgramCode.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week4_27012026_31012026\\Day3_29012026\\Is Is Not\\UserProgramCode.cs",
+              "RelativeDocumentMoniker": "UserProgramCode.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week4_27012026_31012026\\Day3_29012026\\Is Is Not\\UserProgramCode.cs",
+              "RelativeToolTip": "UserProgramCode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:05:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week4_27012026_31012026\\Day3_29012026\\Is Is Not\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week4_27012026_31012026\\Day3_29012026\\Is Is Not\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:02:22.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

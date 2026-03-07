@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\HelloWorld.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\HelloWorld.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\HelloWorld.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\HelloWorld.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\refint\HelloWorld.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\obj\Release\net10.0\ref\HelloWorld.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\bin\Debug\net10.0\Sum of squares of odd digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\refint\Sum of squares of odd digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\Sum of squares of odd digits.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day8_14012026\Sum of squares of odd digits\obj\Debug\net10.0\ref\Sum of squares of odd digits.dll

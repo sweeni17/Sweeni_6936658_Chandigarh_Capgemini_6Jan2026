@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\bin\Debug\net10.0\team.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\bin\Debug\net10.0\team.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\bin\Debug\net10.0\team.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\bin\Debug\net10.0\team.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\bin\Debug\net10.0\team.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\refint\team.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\team.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\team\obj\Debug\net10.0\ref\team.dll

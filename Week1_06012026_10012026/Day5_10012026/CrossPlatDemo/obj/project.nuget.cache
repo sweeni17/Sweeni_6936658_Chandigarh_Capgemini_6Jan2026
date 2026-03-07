@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nm4b+1+h6U4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week 1_06012026_10012026\\Day 5 10012026\\CrossPlatDemo\\CrossPlatDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.1\\microsoft.netcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.win-x64.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

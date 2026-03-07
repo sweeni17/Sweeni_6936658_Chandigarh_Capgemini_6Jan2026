@@ -1,0 +1,28 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\refint\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 4 09012026\CompareArrayElements\obj\Debug\net10.0\ref\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\bin\Debug\net10.0\CompareArrayElements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\refint\CompareArrayElements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\CompareArrayElements.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day4_09012026\CompareArrayElements\obj\Debug\net10.0\ref\CompareArrayElements.dll

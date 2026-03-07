@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "First non Repeating Character/1.0.0": {
+        "runtime": {
+          "First non Repeating Character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First non Repeating Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

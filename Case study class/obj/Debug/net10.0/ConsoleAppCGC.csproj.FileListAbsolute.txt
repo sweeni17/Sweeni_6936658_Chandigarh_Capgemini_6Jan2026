@@ -1,0 +1,28 @@
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\bin\Debug\net10.0\ConsoleAppCGC.exe
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\bin\Debug\net10.0\ConsoleAppCGC.deps.json
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\bin\Debug\net10.0\ConsoleAppCGC.runtimeconfig.json
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\bin\Debug\net10.0\ConsoleAppCGC.dll
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\bin\Debug\net10.0\ConsoleAppCGC.pdb
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.AssemblyInfoInputs.cache
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.AssemblyInfo.cs
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.dll
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\refint\ConsoleAppCGC.dll
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.pdb
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ConsoleAppCGC.genruntimeconfig.cache
+C:\Users\pc\source\Sweeni_CG\ConsoleAppCGC\obj\Debug\net10.0\ref\ConsoleAppCGC.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\refint\ConsoleAppCGC.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\bin\Debug\net10.0\ConsoleAppCGC.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\bin\Debug\net10.0\ConsoleAppCGC.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\bin\Debug\net10.0\ConsoleAppCGC.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\bin\Debug\net10.0\ConsoleAppCGC.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\bin\Debug\net10.0\ConsoleAppCGC.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ConsoleAppCGC.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Case study class\obj\Debug\net10.0\ref\ConsoleAppCGC.dll

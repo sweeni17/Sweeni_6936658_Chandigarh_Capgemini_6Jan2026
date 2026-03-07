@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\bin\Debug\net10.0\Remove duplicate.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\bin\Debug\net10.0\Remove duplicate.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\bin\Debug\net10.0\Remove duplicate.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\bin\Debug\net10.0\Remove duplicate.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\bin\Debug\net10.0\Remove duplicate.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\refint\Remove duplicate.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\Remove duplicate.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Remove duplicate\obj\Debug\net10.0\ref\Remove duplicate.dll

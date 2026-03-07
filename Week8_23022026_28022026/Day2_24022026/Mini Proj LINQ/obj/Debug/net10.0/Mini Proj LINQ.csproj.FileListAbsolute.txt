@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\bin\Debug\net10.0\Mini Proj LINQ.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\bin\Debug\net10.0\Mini Proj LINQ.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\bin\Debug\net10.0\Mini Proj LINQ.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\bin\Debug\net10.0\Mini Proj LINQ.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\bin\Debug\net10.0\Mini Proj LINQ.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\refint\Mini Proj LINQ.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\Mini Proj LINQ.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week8_23022026_28022026\Day2_24022026\Mini Proj LINQ\obj\Debug\net10.0\ref\Mini Proj LINQ.dll

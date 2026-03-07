@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Weather Dashboard</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    font-family:'Poppins',sans-serif;
+    background: linear-gradient(135deg,#74ebd5,#9face6);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:380px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    text-align:center;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+input{
+    width:70%;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ddd;
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    background:#4CAF50;
+    color:white;
+    font-weight:600;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#45a049;
+}
+
+.weather-card{
+    margin-top:20px;
+    padding:15px;
+    border-radius:10px;
+    background:#f4f6f8;
+}
+
+.temp{
+    font-size:30px;
+    font-weight:600;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>🌤 Weather Today</h2>
+
+<input type="text" id="cityInput" placeholder="Enter City">
+
+<br><br>
+
+<button onclick="checkWeather()">Check Weather</button>
+
+<div id="weatherResult"></div>
+
+</div>
+
+<script>
+
+function checkWeather(){
+
+let city=document.getElementById("cityInput").value;
+
+let weatherTypes=["Sunny","Rainy","Cloudy"];
+let weather=weatherTypes[Math.floor(Math.random()*weatherTypes.length)];
+
+let temp=Math.floor(Math.random()*15)+20;
+
+let icon="";
+
+if(weather=="Sunny"){
+icon="☀️";
+document.body.style.background="linear-gradient(135deg,#fddb92,#d1fdff)";
+}
+else if(weather=="Rainy"){
+icon="🌧";
+document.body.style.background="linear-gradient(135deg,#4facfe,#00f2fe)";
+}
+else{
+icon="☁️";
+document.body.style.background="linear-gradient(135deg,#bdc3c7,#2c3e50)";
+}
+
+document.getElementById("weatherResult").innerHTML=
+`<div class="weather-card">
+<h3>${city}</h3>
+<div class="temp">${temp}°C</div>
+<p>${icon} ${weather}</p>
+</div>`;
+
+}
+
+</script>
+
+</body>
+</html>

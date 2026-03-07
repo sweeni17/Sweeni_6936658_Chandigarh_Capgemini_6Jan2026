@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\bin\Debug\net10.0\Customer Service.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\bin\Debug\net10.0\Customer Service.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\bin\Debug\net10.0\Customer Service.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\bin\Debug\net10.0\Customer Service.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\bin\Debug\net10.0\Customer Service.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\refint\Customer Service.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\Customer Service.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day16_23012026\Customer Service\obj\Debug\net10.0\ref\Customer Service.dll

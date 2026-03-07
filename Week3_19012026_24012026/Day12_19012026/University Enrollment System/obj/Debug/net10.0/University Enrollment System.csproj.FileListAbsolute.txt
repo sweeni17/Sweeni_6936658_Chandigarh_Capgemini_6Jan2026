@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\bin\Debug\net10.0\University Enrollment System.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\bin\Debug\net10.0\University Enrollment System.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\bin\Debug\net10.0\University Enrollment System.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\bin\Debug\net10.0\University Enrollment System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\bin\Debug\net10.0\University Enrollment System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\refint\University Enrollment System.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\University Enrollment System.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\University Enrollment System\obj\Debug\net10.0\ref\University Enrollment System.dll

@@ -1,0 +1,28 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\refint\Bank Chat Bot.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\ref\Bank Chat Bot.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\bin\Debug\net10.0\Bank Chat Bot.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\refint\Bank Chat Bot.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\Bank Chat Bot.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week9_02042026_07042026\M1 QUESTIONS\Bank Chat Bot\obj\Debug\net10.0\ref\Bank Chat Bot.dll

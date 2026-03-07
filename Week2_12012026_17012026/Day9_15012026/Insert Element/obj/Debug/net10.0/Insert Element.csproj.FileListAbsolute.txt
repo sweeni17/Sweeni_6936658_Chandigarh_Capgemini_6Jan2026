@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\bin\Debug\net10.0\Insert Element.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\bin\Debug\net10.0\Insert Element.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\bin\Debug\net10.0\Insert Element.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\bin\Debug\net10.0\Insert Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\bin\Debug\net10.0\Insert Element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\refint\Insert Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\Insert Element.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Insert Element\obj\Debug\net10.0\ref\Insert Element.dll

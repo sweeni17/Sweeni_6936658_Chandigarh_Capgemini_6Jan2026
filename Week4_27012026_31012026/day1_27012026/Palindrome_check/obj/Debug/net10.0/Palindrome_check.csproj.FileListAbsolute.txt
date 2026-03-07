@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\bin\Debug\net10.0\Palindrome_check.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\bin\Debug\net10.0\Palindrome_check.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\bin\Debug\net10.0\Palindrome_check.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\bin\Debug\net10.0\Palindrome_check.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\bin\Debug\net10.0\Palindrome_check.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\refint\Palindrome_check.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\Palindrome_check.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Palindrome_check\obj\Debug\net10.0\ref\Palindrome_check.dll

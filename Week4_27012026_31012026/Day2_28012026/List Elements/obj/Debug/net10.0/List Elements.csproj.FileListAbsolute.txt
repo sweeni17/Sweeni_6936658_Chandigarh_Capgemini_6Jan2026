@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\bin\Debug\net10.0\List Elements.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\bin\Debug\net10.0\List Elements.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\bin\Debug\net10.0\List Elements.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\bin\Debug\net10.0\List Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\bin\Debug\net10.0\List Elements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\refint\List Elements.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\List Elements.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day2_28012026\List Elements\obj\Debug\net10.0\ref\List Elements.dll

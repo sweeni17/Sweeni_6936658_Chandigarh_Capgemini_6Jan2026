@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\bin\Debug\net10.0\Roman to Decimal.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\bin\Debug\net10.0\Roman to Decimal.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\bin\Debug\net10.0\Roman to Decimal.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\bin\Debug\net10.0\Roman to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\bin\Debug\net10.0\Roman to Decimal.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\refint\Roman to Decimal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\Roman to Decimal.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\Day3_29012026\Roman to Decimal\obj\Debug\net10.0\ref\Roman to Decimal.dll

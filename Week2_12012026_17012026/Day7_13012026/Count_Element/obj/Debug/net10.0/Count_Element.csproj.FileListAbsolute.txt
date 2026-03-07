@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\bin\Debug\net10.0\Count_Element.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\bin\Debug\net10.0\Count_Element.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\bin\Debug\net10.0\Count_Element.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\bin\Debug\net10.0\Count_Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\bin\Debug\net10.0\Count_Element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\refint\Count_Element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\Count_Element.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Count_Element\obj\Debug\net10.0\ref\Count_Element.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\bin\Debug\net10.0\Sum of multiples of 5.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\bin\Debug\net10.0\Sum of multiples of 5.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\bin\Debug\net10.0\Sum of multiples of 5.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\bin\Debug\net10.0\Sum of multiples of 5.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\bin\Debug\net10.0\Sum of multiples of 5.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\refint\Sum of multiples of 5.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\Sum of multiples of 5.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day6_12012026\Sum of multiples of 5\obj\Debug\net10.0\ref\Sum of multiples of 5.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\bin\Debug\net10.0\Second largest element.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\bin\Debug\net10.0\Second largest element.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\bin\Debug\net10.0\Second largest element.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\bin\Debug\net10.0\Second largest element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\bin\Debug\net10.0\Second largest element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\refint\Second largest element.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\Second largest element.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day9_15012026\Second largest element\obj\Debug\net10.0\ref\Second largest element.dll

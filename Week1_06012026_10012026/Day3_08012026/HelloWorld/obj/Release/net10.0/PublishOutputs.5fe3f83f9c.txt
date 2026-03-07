@@ -1,0 +1,5 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\publish\HelloWorld.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\publish\HelloWorld.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\publish\HelloWorld.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\HelloWorld\bin\Release\net10.0\publish\HelloWorld.pdb

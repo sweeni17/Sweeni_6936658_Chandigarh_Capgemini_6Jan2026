@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\bin\Debug\net10.0\Product of digits.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\bin\Debug\net10.0\Product of digits.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\bin\Debug\net10.0\Product of digits.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\bin\Debug\net10.0\Product of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\bin\Debug\net10.0\Product of digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\refint\Product of digits.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\Product of digits.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Product of digits\obj\Debug\net10.0\ref\Product of digits.dll

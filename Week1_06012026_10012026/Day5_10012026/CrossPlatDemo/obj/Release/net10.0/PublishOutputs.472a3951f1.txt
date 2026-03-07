@@ -1,0 +1,5 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 5 10012026\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 5 10012026\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 5 10012026\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 5 10012026\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 5 10012026\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.pdb

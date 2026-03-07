@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Greeting Card</title>
+
+<!-- Google cursive font -->
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    text-align:center;
+    padding-top:120px;
+    font-family: Arial;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size:60px;
+    color:#ff4081;
+}
+
+p{
+    font-size:18px;
+}
+
+button{
+    padding:12px 25px;
+    font-size:16px;
+    background:#ff4081;
+    color:white;
+    border:none;
+    border-radius:20px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#e73370;
+}
+
+#surprise{
+    display:none;
+    margin-top:20px;
+    font-size:22px;
+    color:#6a1b9a;
+}
+
+</style>
+
+<!-- Confetti library -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+</head>
+
+<body>
+
+<h1>Happy Birthday!</h1>
+
+<p>Hope your day is filled with happiness and cake!</p>
+
+<button onclick="showMessage()">Click for Surprise</button>
+
+<p id="surprise">Wishing you lots of joy!</p>
+
+<script>
+
+function showMessage(){
+
+document.getElementById("surprise").style.display="block";
+
+/* Confetti animation */
+confetti({
+    particleCount:150,
+    spread:120,
+    origin:{ y:0.6 }
+});
+
+}
+
+</script>
+
+</body>
+</html>

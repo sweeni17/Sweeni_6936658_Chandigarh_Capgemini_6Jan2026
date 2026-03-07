@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\bin\Debug\net10.0\Alphabets and Vowels.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\bin\Debug\net10.0\Alphabets and Vowels.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\bin\Debug\net10.0\Alphabets and Vowels.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\bin\Debug\net10.0\Alphabets and Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\bin\Debug\net10.0\Alphabets and Vowels.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\refint\Alphabets and Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\Alphabets and Vowels.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Alphabets and Vowels\obj\Debug\net10.0\ref\Alphabets and Vowels.dll

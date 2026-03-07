@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\bin\Debug\net10.0\Sort half asc half desc.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\bin\Debug\net10.0\Sort half asc half desc.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\bin\Debug\net10.0\Sort half asc half desc.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\bin\Debug\net10.0\Sort half asc half desc.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\bin\Debug\net10.0\Sort half asc half desc.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\refint\Sort half asc half desc.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\Sort half asc half desc.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week2_12012026_17012026\Day7_13012026\Sort half asc half desc\obj\Debug\net10.0\ref\Sort half asc half desc.dll

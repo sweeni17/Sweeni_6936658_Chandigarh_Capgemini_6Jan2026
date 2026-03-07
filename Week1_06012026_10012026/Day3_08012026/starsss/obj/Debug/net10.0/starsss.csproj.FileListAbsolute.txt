@@ -1,0 +1,56 @@
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.AssemblyInfoInputs.cache
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.AssemblyInfo.cs
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Sweeni_CG\starsss\bin\Debug\net10.0\starsss.exe
+C:\Users\pc\source\Sweeni_CG\starsss\bin\Debug\net10.0\starsss.deps.json
+C:\Users\pc\source\Sweeni_CG\starsss\bin\Debug\net10.0\starsss.runtimeconfig.json
+C:\Users\pc\source\Sweeni_CG\starsss\bin\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Sweeni_CG\starsss\bin\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\refint\starsss.dll
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\starsss.genruntimeconfig.cache
+C:\Users\pc\source\Sweeni_CG\starsss\obj\Debug\net10.0\ref\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\bin\Debug\net10.0\starsss.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\bin\Debug\net10.0\starsss.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\bin\Debug\net10.0\starsss.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\bin\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\bin\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\refint\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\starsss.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\starsss\obj\Debug\net10.0\ref\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\bin\Debug\net10.0\starsss.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\bin\Debug\net10.0\starsss.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\bin\Debug\net10.0\starsss.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\bin\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\bin\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\refint\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\starsss.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week 1_06012026_10012026\Day 3 08012026\starsss\obj\Debug\net10.0\ref\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\bin\Debug\net10.0\starsss.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\bin\Debug\net10.0\starsss.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\bin\Debug\net10.0\starsss.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\bin\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\bin\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\refint\starsss.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\starsss.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day3_08012026\starsss\obj\Debug\net10.0\ref\starsss.dll

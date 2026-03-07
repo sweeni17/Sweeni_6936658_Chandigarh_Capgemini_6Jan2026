@@ -1,0 +1,28 @@
+C:\Users\pc\source\Sweeni_CG\Class employee\bin\Debug\net10.0\Class employee.exe
+C:\Users\pc\source\Sweeni_CG\Class employee\bin\Debug\net10.0\Class employee.deps.json
+C:\Users\pc\source\Sweeni_CG\Class employee\bin\Debug\net10.0\Class employee.runtimeconfig.json
+C:\Users\pc\source\Sweeni_CG\Class employee\bin\Debug\net10.0\Class employee.dll
+C:\Users\pc\source\Sweeni_CG\Class employee\bin\Debug\net10.0\Class employee.pdb
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.AssemblyInfoInputs.cache
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.AssemblyInfo.cs
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.dll
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\refint\Class employee.dll
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.pdb
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\Class employee.genruntimeconfig.cache
+C:\Users\pc\source\Sweeni_CG\Class employee\obj\Debug\net10.0\ref\Class employee.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\bin\Debug\net10.0\Class employee.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\bin\Debug\net10.0\Class employee.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\bin\Debug\net10.0\Class employee.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\bin\Debug\net10.0\Class employee.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\bin\Debug\net10.0\Class employee.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\refint\Class employee.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\Class employee.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Day 4 09012026\Class employee\obj\Debug\net10.0\ref\Class employee.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\bin\Debug\net10.0\Lucky string.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\bin\Debug\net10.0\Lucky string.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\bin\Debug\net10.0\Lucky string.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\bin\Debug\net10.0\Lucky string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\bin\Debug\net10.0\Lucky string.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\refint\Lucky string.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\Lucky string.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week3_19012026_24012026\Day12_20012026\Lucky string\obj\Debug\net10.0\ref\Lucky string.dll

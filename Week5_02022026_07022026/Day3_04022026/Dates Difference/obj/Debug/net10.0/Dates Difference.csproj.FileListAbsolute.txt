@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\bin\Debug\net10.0\Dates Difference.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\bin\Debug\net10.0\Dates Difference.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\bin\Debug\net10.0\Dates Difference.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\bin\Debug\net10.0\Dates Difference.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\bin\Debug\net10.0\Dates Difference.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\refint\Dates Difference.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\Dates Difference.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week5_02022026_07022026\Day3_04022026\Dates Difference\obj\Debug\net10.0\ref\Dates Difference.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\bin\Debug\net10.0\Number of Multiples of 3.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\bin\Debug\net10.0\Number of Multiples of 3.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\bin\Debug\net10.0\Number of Multiples of 3.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\bin\Debug\net10.0\Number of Multiples of 3.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\bin\Debug\net10.0\Number of Multiples of 3.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\refint\Number of Multiples of 3.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\Number of Multiples of 3.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week1_06012026_10012026\Day5_10012026\Number of Multiples of 3\obj\Debug\net10.0\ref\Number of Multiples of 3.dll

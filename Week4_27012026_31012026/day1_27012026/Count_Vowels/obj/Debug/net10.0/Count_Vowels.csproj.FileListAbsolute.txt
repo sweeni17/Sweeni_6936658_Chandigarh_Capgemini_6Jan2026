@@ -1,0 +1,14 @@
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.AssemblyInfoInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.AssemblyInfo.cs
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\bin\Debug\net10.0\Count_Vowels.exe
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\bin\Debug\net10.0\Count_Vowels.deps.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\bin\Debug\net10.0\Count_Vowels.runtimeconfig.json
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\bin\Debug\net10.0\Count_Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\bin\Debug\net10.0\Count_Vowels.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\refint\Count_Vowels.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.pdb
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\Count_Vowels.genruntimeconfig.cache
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week4_27012026_31012026\day1_27012026\Count_Vowels\obj\Debug\net10.0\ref\Count_Vowels.dll
