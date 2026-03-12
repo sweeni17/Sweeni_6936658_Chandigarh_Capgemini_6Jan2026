@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\middleware\\requesttrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:middleware\\requesttrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\services\\requestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:services\\requestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\services\\irequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:services\\irequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Migrations\\20260312065233_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260312065233_s1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\studentmvc\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C49F8B-004D-4DB2-866B-240DB9C7FB6D}|StudentMVC.csproj|solutionrelative:models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:41:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:40:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T08:38:27.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T07:09:26.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T07:09:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:28:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:39:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLogService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Services\\RequestLogService.cs",
+              "RelativeDocumentMoniker": "Services\\RequestLogService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Services\\RequestLogService.cs",
+              "RelativeToolTip": "Services\\RequestLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:54:27.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestTrackingMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\MiddleWare\\RequestTrackingMiddleWare.cs",
+              "RelativeDocumentMoniker": "MiddleWare\\RequestTrackingMiddleWare.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\MiddleWare\\RequestTrackingMiddleWare.cs",
+              "RelativeToolTip": "MiddleWare\\RequestTrackingMiddleWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:56:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T06:34:55.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRequestLogService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Services\\IRequestLogService.cs",
+              "RelativeDocumentMoniker": "Services\\IRequestLogService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Services\\IRequestLogService.cs",
+              "RelativeToolTip": "Services\\IRequestLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:53:57.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260312065233_s1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Migrations\\20260312065233_s1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260312065233_s1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Migrations\\20260312065233_s1.cs",
+              "RelativeToolTip": "Migrations\\20260312065233_s1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:52:34.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\RequestLog.cs",
+              "RelativeDocumentMoniker": "Models\\RequestLog.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\StudentMVC\\Models\\RequestLog.cs",
+              "RelativeToolTip": "Models\\RequestLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:32:13.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@model StudentMVC.Models.Student
+
+<h2>Add Student</h2>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="deptName" class="form-control" />
+    </div>
+
+    <div>
+        <label>DateOfBirth</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+
+</form>

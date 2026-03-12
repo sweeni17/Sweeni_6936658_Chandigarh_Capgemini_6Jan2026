@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\views\\bookcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:views\\bookcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\migrations\\20260310094453_b2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:migrations\\20260310094453_b2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\views\\bookcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:views\\bookcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\views\\bookcontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:views\\bookcontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\views\\bookcontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:views\\bookcontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\views\\bookcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:views\\bookcontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day2_10032026\\mvcdemobook\\migrations\\20260310052520_b1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF084589-65FB-2402-46F5-6FFA27C1D70D}|MVCdemoBook.csproj|solutionrelative:migrations\\20260310052520_b1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Controllers\\BookController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Controllers\\BookController1.cs",
+              "RelativeToolTip": "Controllers\\BookController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:53:09.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:11:13.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T05:04:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Create.cshtml",
+              "RelativeToolTip": "Views\\BookController1\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:30:53.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T09:12:11.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:19:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:55:45.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "Models\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:58:28.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Index.cshtml",
+              "RelativeToolTip": "Views\\BookController1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:04:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260310094453_B2.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Migrations\\20260310094453_B2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310094453_B2.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Migrations\\20260310094453_B2.cs",
+              "RelativeToolTip": "Migrations\\20260310094453_B2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:44:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookController1\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Edit.cshtml",
+              "RelativeToolTip": "Views\\BookController1\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T07:06:00.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookController1\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Details.cshtml",
+              "RelativeToolTip": "Views\\BookController1\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:27:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookController1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Views\\BookController1\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BookController1\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:33:02.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260310052520_b1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Migrations\\20260310052520_b1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310052520_b1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day2_10032026\\MVCdemoBook\\Migrations\\20260310052520_b1.cs",
+              "RelativeToolTip": "Migrations\\20260310052520_b1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:25:20.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
