@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0026E569-714F-8103-C5D5-AB82A4B16C86}|AuthPortal.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day4_12032026\\authportal\\services\\operationlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,73 +90,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-12T09:40:18.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T09:02:14.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T09:02:14.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAqwG0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T09:01:46.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T09:01:12.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Students\\Index.cshtml",
               "RelativeToolTip": "Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-12T09:00:29.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -164,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -176,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -188,31 +154,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthenticationMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Middleware\\AuthenticationMiddleware.cs",
-              "RelativeDocumentMoniker": "Middleware\\AuthenticationMiddleware.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Middleware\\AuthenticationMiddleware.cs",
-              "RelativeToolTip": "Middleware\\AuthenticationMiddleware.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:58:21.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\StudentService.cs",
               "RelativeToolTip": "Services\\StudentService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:57:48.797Z"
+              "WhenOpened": "2026-03-12T08:57:48.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T09:40:18.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\IStudentService.cs",
               "RelativeDocumentMoniker": "Services\\IStudentService.cs",
@@ -224,7 +191,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T09:01:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T09:01:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-13T10:21:30.694Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\AuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "Middleware\\AuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:58:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "OperationLogService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\OperationLogService.cs",
               "RelativeDocumentMoniker": "Services\\OperationLogService.cs",
@@ -236,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IOperationLogService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\IOperationLogService.cs",
               "RelativeDocumentMoniker": "Services\\IOperationLogService.cs",
@@ -248,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -260,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "Services\\IAuthService.cs",
@@ -272,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AdminDashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Models\\AdminDashboardViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AdminDashboardViewModel.cs",
@@ -284,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "StudentIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Models\\StudentIndexViewModel.cs",
               "RelativeDocumentMoniker": "Models\\StudentIndexViewModel.cs",
@@ -296,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "OperationLog.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Models\\OperationLog.cs",
               "RelativeDocumentMoniker": "Models\\OperationLog.cs",
@@ -308,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day4_12032026\\AuthPortal\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",

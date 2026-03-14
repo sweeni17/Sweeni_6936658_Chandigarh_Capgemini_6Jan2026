@@ -1,0 +1,44 @@
+﻿@model Employee_Project_Management_System.Models.Employee
+
+<div class="container mt-4">
+
+    <h2 class="mb-4">Create Employee</h2>
+
+    <form method="post">
+
+        <div class="mb-3">
+            <label class="form-label">Employee Name</label>
+            <input class="form-control" type="text" name="Name" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Department</label>
+
+            <select class="form-select" name="DepartmentId">
+
+                @foreach (var d in ViewBag.Departments)
+                {
+                    <option value="@d.DepartmentId">@d.Name</option>
+                }
+
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Assign Projects</label>
+
+            @foreach (var p in ViewBag.Projects)
+            {
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" name="selectedProjects" value="@p.ProjectId" />
+                    <label class="form-check-label">@p.Title</label>
+                </div>
+            }
+
+        </div>
+
+        <button class="btn btn-success">Save Employee</button>
+
+    </form>
+
+</div>

@@ -11,9 +11,9 @@ public class StudentService : IStudentService
 {
     private static List<Student> _students = new()
     {
-        new Student { Id = 1, Name = "Alice Johnson", Email = "alice@example.com", Course = "Computer Science" },
-        new Student { Id = 2, Name = "Bob Smith",     Email = "bob@example.com",   Course = "Mathematics"      },
-        new Student { Id = 3, Name = "Carol White",   Email = "carol@example.com", Course = "Physics"          },
+        new Student { Id = 1, Name = "Sweeni",  Email = "sweenichoudhary@gmail.com",  Course = "Computer Science" },
+        new Student { Id = 2, Name = "Miraya",  Email = "mirayamehta@gmail.com",  Course = "Mathematics" },
+        new Student { Id = 3, Name = "Taranya", Email = "taranyachauhan@gmail.com", Course = "Physics" },
     };
     private static int _nextId = 4;
 

@@ -121,7 +121,6 @@ C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_130
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\scopedcss\bundle\AuthPortal.styles.css
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\scopedcss\projectbundle\AuthPortal.bundle.scp.css
-C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\compressed\ntjrwwlbfj-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\compressed\2j8ft0vojs-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\compressed\dv8ddutxne-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\compressed\402f0hfr7q-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -196,3 +195,4 @@ C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_130
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\AuthPortal.pdb
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\AuthPortal.genruntimeconfig.cache
 C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\ref\AuthPortal.dll
+C:\Users\pc\source\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\Week10_09032026_13032026\Day4_12032026\AuthPortal\obj\Debug\net10.0\compressed\ntjrwwlbfj-{0}-7e34os7i1k-7e34os7i1k.gz
