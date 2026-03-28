@@ -1,0 +1,23 @@
+@model List<Product>
+
+<div class="container mt-4">
+    <h2>Products</h2>
+
+    <a href="/Product/Create" class="btn btn-primary mb-3">Add Product</a>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3">
+                <div class="card p-3 shadow mb-3">
+                    <h5>@item.Name</h5>
+                    <p>₹@item.Price</p>
+                    <p>@item.Category?.Name</p>
+
+                    <a href="/Product/Edit/@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="/Product/Delete/@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>

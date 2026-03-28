@@ -1,0 +1,99 @@
+@page
+@model EventBooking.UI.Pages.EventsModel
+
+<h2 class="text-center mt-4 mb-4">🎟️ Available Events</h2>
+
+<div class="container">
+
+    <!-- TABLE VIEW -->
+    <table class="table table-bordered table-striped shadow">
+        <thead class="table-dark">
+            <tr>
+                <th>Title</th>
+                <th>Date</th>
+                <th>Location</th>
+                <th>Seats</th>
+            </tr>
+        </thead>
+        <tbody id="eventTable"></tbody>
+    </table>
+
+    <hr class="my-5"/>
+
+    <!-- CARD VIEW -->
+    <div class="row" id="eventsRow"></div>
+
+</div>
+
+<script>
+fetch("http://localhost:5022/api/events")
+.then(res => res.json())
+.then(data => {
+
+    let table = document.getElementById("eventTable");
+    let container = document.getElementById("eventsRow");
+
+    data.forEach(e => {
+
+        // TABLE
+        table.innerHTML += `
+        <tr>
+            <td>${e.title}</td>
+            <td>${e.date}</td>
+            <td>${e.location}</td>
+            <td>${e.availableSeats}</td>
+        </tr>`;
+
+        // CARDS
+        container.innerHTML += `
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0 mb-4 rounded-4">
+                <div class="card-body">
+                    <h4 class="card-title text-primary">${e.title}</h4>
+                    <p>${e.description}</p>
+
+                    <p><b>Date:</b> ${e.date}</p>
+                    <p><b>Location:</b> ${e.location}</p>
+                    <p><b>Seats Left:</b> ${e.availableSeats}</p>
+
+                    <div class="mt-3">
+                        <input type="number" id="seats-${e.id}" 
+                        class="form-control mb-2" placeholder="Enter seats">
+
+                        <button class="btn btn-success w-100" onclick="book(${e.id})">
+                            Book Now
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+    });
+
+});
+
+function book(eventId) {
+
+    let seats = document.getElementById(`seats-${eventId}`).value;
+
+    if(seats <= 0){
+        alert("Please enter valid seats");
+        return;
+    }
+
+    fetch("http://localhost:5022/api/bookings", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            eventId: eventId,
+            seatsBooked: seats
+        })
+    })
+    .then(res => res.text())
+    .then(msg => {
+        alert(msg);
+        location.reload(); // refresh after booking
+    });
+}
+</script>

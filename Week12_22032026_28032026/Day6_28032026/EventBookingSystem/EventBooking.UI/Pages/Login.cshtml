@@ -1,0 +1,35 @@
+@page "/Login"
+@model EventBooking.UI.Pages.LoginModel
+
+<h2 class="text-center mt-4">Login</h2>
+
+<div class="container" style="max-width:400px;">
+    
+    <input id="username" class="form-control mb-2" placeholder="Username" />
+    
+    <input id="password" type="password" class="form-control mb-2" placeholder="Password" />
+
+    <button class="btn btn-primary w-100" onclick="login()">Login</button>
+</div>
+
+<script>
+function login() {
+    fetch("http://localhost:5022/api/auth/login", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            username: document.getElementById("username").value,
+            password: document.getElementById("password").value
+        })
+    })
+    .then(res => res.json())
+    .then(data => {
+        localStorage.setItem("token", data.token);
+        alert("Login successful!");
+        window.location.href = "/Events";
+    })
+    .catch(err => alert("Login failed"));
+}
+</script>

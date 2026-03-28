@@ -1,0 +1,22 @@
+<div class="container mt-4">
+    <h2>Admin Dashboard</h2>
+
+    <h4>Top Products</h4>
+    <ul>
+        @foreach (var item in ViewBag.TopProducts)
+        {
+            <li>Product ID: @item.ProductId | Sold: @item.TotalSold</li>
+        }
+    </ul>
+
+    <h4>Pending Shipments</h4>
+    <ul>
+        @foreach (var item in ViewBag.PendingOrders)
+        {
+            <li>
+                Order ID: @item.OrderId
+                <a href="/Admin/UpdateShipping/@item.Id" class="btn btn-success btn-sm">Mark Shipped</a>
+            </li>
+        }
+    </ul>
+</div>

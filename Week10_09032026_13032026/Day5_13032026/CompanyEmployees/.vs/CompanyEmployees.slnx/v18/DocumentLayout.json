@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\migrations\\20260313064213_c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:migrations\\20260313064213_c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\migrations\\20260313064213_c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:migrations\\20260313064213_c1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|d:\\users\\hp\\source\\repos\\capgemi_cu_sec3_..netwithazure_diksha\\week10_9marchto15march\\day5_13march\\companyemployees\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B161116E-A5D4-45FA-9EAD-9ACB874C6832}|CompanyEmployees.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|c:\\users\\pc\\source\\capgemini_cgc_sec3_dotnetwithazure_sweeni\\week10_09032026_13032026\\day5_13032026\\companyemployees\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB5308F-0546-F11C-4452-AF0ED232887A}|CompanyEmployees.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,106 +66,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T07:11:36.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-13T06:51:21.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T06:50:25.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:50:25.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:49:57.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:49:57.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Companies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:48:07.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Companies\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Companies\\Create.cshtml",
-              "RelativeToolTip": "Views\\Companies\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T06:48:07.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:43:30.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Companies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Views\\Companies\\Index.cshtml",
-              "RelativeToolTip": "Views\\Companies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T06:43:30.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "20260313064213_c1.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Migrations\\20260313064213_c1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Migrations\\20260313064213_c1.cs",
               "RelativeDocumentMoniker": "Migrations\\20260313064213_c1.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Migrations\\20260313064213_c1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Migrations\\20260313064213_c1.cs",
               "RelativeToolTip": "Migrations\\20260313064213_c1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:42:14.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:42:14.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAuwD8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,81 +156,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-13T06:33:12.344Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T07:11:36.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T06:33:12.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CompanyController.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Controllers\\CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "Controllers\\CompanyController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA0wC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:32:14.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:32:14.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "Models\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:27:21.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:24:25.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CompanyDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\CompanyDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\CompanyDbContext.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\CompanyDbContext.cs",
-              "RelativeToolTip": "Models\\CompanyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:27:21.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:23:55.609Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:24:25.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\Company.cs",
-              "RelativeDocumentMoniker": "Models\\Company.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\Company.cs",
-              "RelativeToolTip": "Models\\Company.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:23:55.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
-              "ToolTip": "D:\\Users\\HP\\source\\repos\\Capgemi_CU_sec3_..NetWithAzure_DIKSHA\\Week10_9MarchTo15March\\Day5_13March\\CompanyEmployees\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\Capgemini_CGC_Sec3_dotnetwithazure_Sweeni\\Week10_09032026_13032026\\Day5_13032026\\CompanyEmployees\\Models\\EmployeeModel.cs",
               "RelativeToolTip": "Models\\EmployeeModel.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T06:19:53.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T06:19:53.736Z"
             }
           ]
         }
